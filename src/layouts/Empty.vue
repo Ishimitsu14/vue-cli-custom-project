@@ -1,0 +1,15 @@
+<template>
+
+  <div class="empty">
+    <router-view></router-view>
+  </div>
+
+</template>
+
+<script>
+
+  export default {
+    name: 'empty-layout'
+  }
+
+</script>
